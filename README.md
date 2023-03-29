@@ -66,6 +66,7 @@ The solar panel data that we collected using google earth were processed. other 
 * HACETTEPE UNIVERSITY/Sustainable Campuses Coordinatorship
 
 ## Maps
+* Faculties are marked and scaled from green to red which means that green - fully solar power used, red - none solar power used. In addition, the collected solar energy panel data was added as a layer to the map in QGIS. 
 
 ### - Map by Eslem Şahin 
 
@@ -84,11 +85,5 @@ The solar panel data that we collected using google earth were processed. other 
 ![image](https://user-images.githubusercontent.com/128680001/228599548-32a91ccb-ac9a-455e-b7a9-64c261d3d781.png)
 
 
- Faculties are marked and scaled from green to red which means that green - fully solar power used, red - none solar power used. In addition, the collected solar energy panel data was added as a layer to the map in QGIS. OpenStreetMap was used as a base map.
-
-
-## References
-
-[1] https://syk.hacettepe.edu.tr/tr/enerji_yonetimi-42
 
 
