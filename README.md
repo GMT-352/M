@@ -27,10 +27,11 @@
 ## Aim Of The Project
 
 * The aim of this project is to see what level we are at in the production and use of solar energy as faculties of the Beytepe campus. 
- * According to the results:
+ * In this context, the objectives of the project are:
     * To draw attention to the situations that are not sufficient, if any.
     * As a renewable, sustainable and clean energy source, the sun aims to reduce the use of fossil fuels.
     * It is aimed to reduce energy costs by meeting the energy need with the energy produced by solar panels.
+    * To ensure the homogeneous distribution of the new panels to be added to the Beytepe campus.
 
 ## Requirements
 
@@ -71,9 +72,6 @@
 
 
 ### - Map by Beyza Özkan
-
-![sonmap](https://user-images.githubusercontent.com/81756642/228619869-286a9558-44de-441f-954e-41d9c674aa89.jpg)
-
 
 ### - Map by Tolga Gürcüoğlu
 
