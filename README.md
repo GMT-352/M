@@ -69,7 +69,7 @@ The solar panel data that we collected using google earth were processed. other 
 
 ### - Map by Eslem Şahin 
 
-![image](https://user-images.githubusercontent.com/120361919/228567933-e58460e1-d7ba-4634-a899-24a8a4b20e50.png)
+![image](https://user-images.githubusercontent.com/120361919/228625937-097377f4-a60f-49d8-a364-d949b306c245.png)
 
 
 ### - Map by Beyza Özkan
