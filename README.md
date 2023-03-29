@@ -33,6 +33,27 @@
 
 ## Requirements
 
+### Necessary information for solar panel data
+
+* Hacettepe Teknokent 
+
+![image](https://user-images.githubusercontent.com/120361919/228573404-bd1d4cfa-415c-4cca-8971-39779f2bc570.png)
+
+* Faculty of Law 
+
+![image](https://user-images.githubusercontent.com/120361919/228573839-70ec5e6e-5cbf-4644-abfc-cb9885030732.png)
+
+* Faculty of Automotive
+
+![image](https://user-images.githubusercontent.com/120361919/228575020-7a0e5eab-adb9-49f0-8e81-61d330a9b750.png)
+
+* Parking Area
+
+![image](https://user-images.githubusercontent.com/120361919/228575776-c1069318-dc14-4153-aadb-72fb99a9f206.png)
+
+* Solar Panel 
+
+![image](https://user-images.githubusercontent.com/120361919/228576740-d3dc97ec-c7f7-4ec5-b050-e80a654b91c5.png)
 
 
 
@@ -46,7 +67,6 @@
 ### Map by Eslem Şahin 
 
 ![image](https://user-images.githubusercontent.com/120361919/228567933-e58460e1-d7ba-4634-a899-24a8a4b20e50.png)
-
 
 ### Map by Tuba Çevik
 
