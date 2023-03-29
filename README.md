@@ -69,13 +69,13 @@
 
 ![image](https://user-images.githubusercontent.com/120361919/228567933-e58460e1-d7ba-4634-a899-24a8a4b20e50.png)
 
-### Map by Tuba Çevik
-
-![image](https://user-images.githubusercontent.com/128680001/228599548-32a91ccb-ac9a-455e-b7a9-64c261d3d781.png)
-
 
 ### Map by Beyza Özkan
 
 ### Map by Tolga Gürcüoğlu
+
+### Map by Tuba Çevik
+
+![image](https://user-images.githubusercontent.com/128680001/228599548-32a91ccb-ac9a-455e-b7a9-64c261d3d781.png)
 
 
