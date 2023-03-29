@@ -33,7 +33,7 @@
     * It is aimed to reduce energy costs by meeting the energy need with the energy produced by solar panels.
     * To ensure the homogeneous distribution of the new panels to be added to the Beytepe campus.
     * It aims to make use of the map in homogeneous distribution of the energy provided by the added panels to the faculties.
-    * 
+    * The use of solar energy aims to protect the future of the world by using sustainable and renewable energy sources.
 
 ## Requirements
 
