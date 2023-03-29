@@ -90,12 +90,13 @@ The solar panel data that we collected using google earth were processed. other 
 
 ### - Map by Beyza Özkan
 
-![sonmap](https://user-images.githubusercontent.com/81756642/228624670-7a8d97b1-93ef-4827-b188-3d0fab5596b4.jpg)
+![qgs](https://user-images.githubusercontent.com/81756642/228639727-ce05470b-0b50-441b-8186-0fd75bb473d1.jpg)
 
 
 ### - Map by Tolga Gürcüoğlu
 
  ![Semi-Solar Power Use](https://user-images.githubusercontent.com/121560074/228627713-e38b1e66-bf24-4ce1-9298-ca5947d1e8a1.png)
+
 
 ### - Map by Tuba Çevik
 
