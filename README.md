@@ -37,11 +37,13 @@
 
 ## Requirements
 * The requirements of this project are as follows:
-    * Determining the number of panels that can provide solar energy to the entire campus,
     * Providing the QGIS program to be used in the project, having people who can actively use it, and obtaining the necessary data for the software.
+    * The use of the map to determine the number of panels that can provide solar energy to the entire campus,
     * Obtaining the financial resources required throughout the project, ensuring low cost in the formation of the project,
-    * Calculation of the distribution of the energy supplied from the panels to the area and its active use
-    * 
+    * Calculation of the distribution of the energy supplied from the panels to the area and its active use,
+    * Reporting the project process, presenting the maps created for use,
+    * Providing the data used throughout the project from open source and containing up-to-date information,
+    * Determination of the position and angle of solar panels according to the direction of the sun's rays.
 
 
 ## Necessary information for solar panel data
@@ -68,6 +70,8 @@ The solar panel data that we collected using google earth were processed. other 
 
 ![image](https://user-images.githubusercontent.com/120361919/228576740-d3dc97ec-c7f7-4ec5-b050-e80a654b91c5.png)
 
+* Reference:
+[1] https://syk.hacettepe.edu.tr/tr/enerji_yonetimi-42
 
 ## Data 
 * Open Street Map
