@@ -37,13 +37,15 @@
 
 ## Requirements
 * The requirements of this project are as follows:
-    * Providing the QGIS program to be used in the project, having people who can actively use it, and obtaining the necessary data for the software.
-    * The use of the map to determine the number of panels that can provide solar energy to the entire campus,
-    * Obtaining the financial resources required throughout the project, ensuring low cost in the formation of the project,
-    * Calculation of the distribution of the energy supplied from the panels to the area and its active use,
-    * Reporting the project process, presenting the maps created for use,
+    * Providing the QGIS program to be used in the project, finding people who can actively use it, and obtaining the necessary data for the software.
     * Providing the data used throughout the project from open source and containing up-to-date information,
-    * Determination of the position and angle of solar panels according to the direction of the sun's rays.
+    * Sorting and coloring the panels according to the amount of energy provided by the use,
+    * Determining the position and angle of solar panels according to the direction of the sun's rays,
+    * Determining the locations of the panels in the campus,
+    * Calculation of the distribution of the energy supplied from the panels to the area and its active use,
+    * To be used as a reference in determining the number of panels that can provide solar energy to the entire campus in case the project is developed,
+    * Providing the financial resources needed throughout the project, ensuring low cost in the formation of the project,
+    * Reporting the project process, presenting the created maps,
 
 
 ## Necessary information for solar panel data
