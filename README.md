@@ -71,6 +71,8 @@
 
 ### Map by Tuba Çevik
 
+![image](https://user-images.githubusercontent.com/128680001/228599548-32a91ccb-ac9a-455e-b7a9-64c261d3d781.png)
+
 
 ### Map by Beyza Özkan
 
