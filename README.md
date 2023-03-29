@@ -32,6 +32,8 @@
     * As a renewable, sustainable and clean energy source, the sun aims to reduce the use of fossil fuels.
     * It is aimed to reduce energy costs by meeting the energy need with the energy produced by solar panels.
     * To ensure the homogeneous distribution of the new panels to be added to the Beytepe campus.
+    * It aims to make use of the map in homogeneous distribution of the energy provided by the added panels to the faculties.
+    * 
 
 ## Requirements
 
@@ -85,7 +87,4 @@ The solar panel data that we collected using google earth were processed. other 
 ### - Map by Tuba Çevik
 
 ![image](https://user-images.githubusercontent.com/128680001/228599548-32a91ccb-ac9a-455e-b7a9-64c261d3d781.png)
-
-
-
 
