@@ -18,6 +18,18 @@
 
 ## Aim Of The Project
 
-* The aim of this project is to see what level we are at in the production and use of solar energy as faculties of the Beytepe campus. According to the results, to draw attention to the situations that are not sufficient, if any.
+* The aim of this project is to see what level we are at in the production and use of solar energy as faculties of the Beytepe campus. 
+ * According to the results:
+    * To draw attention to the situations that are not sufficient, if any.
+    * 
 
 ## Requirements
+
+
+## Data 
+* Open Street Map
+* Google Earth
+* HACETTEPE UNIVERSITY/Sustainable Campuses Coordinatorship
+
+## Maps
+
