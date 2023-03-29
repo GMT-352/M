@@ -29,8 +29,7 @@
 * The aim of this project is to see what level we are at in the production and use of solar energy as faculties of the Beytepe campus. 
  * According to the results:
     * To draw attention to the situations that are not sufficient, if any.
-    * To reduce the use of solar, fossil fuels, which is a renewable, sustainable and clean energy source.
-    * Reducing energy costs by meeting the energy needs with the energy produces by solar panel.
+    * 
 
 ## Requirements
 
@@ -43,4 +42,17 @@
 * HACETTEPE UNIVERSITY/Sustainable Campuses Coordinatorship
 
 ## Maps
+
+### Map by Eslem Şahin 
+
+![image](https://user-images.githubusercontent.com/120361919/228567933-e58460e1-d7ba-4634-a899-24a8a4b20e50.png)
+
+
+### Map by Tuba Çevik
+
+
+### Map by Beyza Özkan
+
+### Map by Tolga Gürcüoğlu
+
 
