@@ -37,6 +37,8 @@
 
 ### Necessary information for solar panel data
 
+The solar panel data that we collected using google earth were processed. other than that, web browsing was done. Apart from what we have identified, there are solar panels in landscaping areas, illuminated traffic signs and some traffic lights [1]. Currently, the total capacity of the solar panels on the campuses is calculated as approximately 400000 kWh per day. In 2021, daily energy production of approximately 150000 kWh has been experienced practically [1].
+
 * Hacettepe Teknokent 
 
 ![image](https://user-images.githubusercontent.com/120361919/228573404-bd1d4cfa-415c-4cca-8971-39779f2bc570.png)
@@ -57,7 +59,6 @@
 
 ![image](https://user-images.githubusercontent.com/120361919/228576740-d3dc97ec-c7f7-4ec5-b050-e80a654b91c5.png)
 
-The solar panel data that we collected using google earth were processed. other than that, web browsing was done. Apart from what we have identified, there are solar panels in landscaping areas, illuminated traffic signs and some traffic lights [1]. Currently, the total capacity of the solar panels on the campuses is calculated as approximately 400000 kWh per day. In 2021, daily energy production of approximately 150000 kWh has been experienced practically [1].
 
 ## Data 
 * Open Street Map
