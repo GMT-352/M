@@ -29,7 +29,8 @@
 * The aim of this project is to see what level we are at in the production and use of solar energy as faculties of the Beytepe campus. 
  * According to the results:
     * To draw attention to the situations that are not sufficient, if any.
-    * 
+    * To reduce the use of solar, fossil fuels, which is a renewable, sustainable and clean energy source.
+    * Reducing energy costs by meeting the energy needs with the energy produces by solar panel.
 
 ## Requirements
 
