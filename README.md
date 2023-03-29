@@ -9,11 +9,10 @@
 
 # One Requirement, One Map on SDG #11
 
-
+---
 
 ## Solar Power Usage Map Of Department Buildings at Hacettepe University
 
----
 
 - This is a field project that will make our campus sustainable and smart under the title of Sustainable Cities and Communities.
 
