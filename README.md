@@ -36,8 +36,15 @@
     * The use of solar energy aims to protect the future of the world by using sustainable and renewable energy sources.
 
 ## Requirements
+* The requirements of this project are as follows:
+    * Determining the number of panels that can provide solar energy to the entire campus,
+    * Providing the QGIS program to be used in the project, having people who can actively use it, and obtaining the necessary data for the software.
+    * Obtaining the financial resources required throughout the project, ensuring low cost in the formation of the project,
+    * Calculation of the distribution of the energy supplied from the panels to the area and its active use
+    * 
 
-### Necessary information for solar panel data
+
+## Necessary information for solar panel data
 
 The solar panel data that we collected using google earth were processed. other than that, web browsing was done. Apart from what we have identified, there are solar panels in landscaping areas, illuminated traffic signs and some traffic lights [1]. Currently, the total capacity of the solar panels on the campuses is calculated as approximately 400000 kWh per day. In 2021, daily energy production of approximately 150000 kWh has been experienced practically [1].
 
