@@ -1,6 +1,15 @@
 ![alt text](https://www.freelogovectors.net/wp-content/uploads/2020/07/hacettepe-universitesi-logo-768x178.png)
 
+# GMT352 GEOGRAPHIC INFORMATION SYSTEMS
+* 21967756 ESLEM ŞAHİN 
+* 2200674068 TUBA ÇEVİK 
+* 21833369 BEYZA ÖZKAN 
+* 21967588 TOLGA GÜRCÜOĞLU 
+
+
 # One Requirement, One Map on SDG #11
+
+
 
 ## Solar Power Usage Map Of Department Buildings at Hacettepe University
 
@@ -24,6 +33,8 @@
     * 
 
 ## Requirements
+
+
 
 
 ## Data 
