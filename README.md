@@ -57,7 +57,7 @@
 
 ![image](https://user-images.githubusercontent.com/120361919/228576740-d3dc97ec-c7f7-4ec5-b050-e80a654b91c5.png)
 
-
+The solar panel data that we collected using google earth were processed. other than that, web browsing was done. Apart from what we have identified, there are solar panels in landscaping areas, illuminated traffic signs and some traffic lights [1]. Currently, the total capacity of the solar panels on the campuses is calculated as approximately 400000 kWh per day. In 2021, daily energy production of approximately 150000 kWh has been experienced practically [1].
 
 ## Data 
 * Open Street Map
@@ -78,5 +78,13 @@
 ### - Map by Tuba Çevik
 
 ![image](https://user-images.githubusercontent.com/128680001/228599548-32a91ccb-ac9a-455e-b7a9-64c261d3d781.png)
+
+
+ Faculties are marked and scaled from green to red which means that green - fully solar power used, red - none solar power used. In addition, the collected solar energy panel data was added as a layer to the map in QGIS. OpenStreetMap was used as a base map.
+
+
+## References
+
+[1] https://syk.hacettepe.edu.tr/tr/enerji_yonetimi-42
 
 
